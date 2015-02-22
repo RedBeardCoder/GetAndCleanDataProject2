@@ -28,5 +28,4 @@ The data are described by the following files :
 
 The R script merge all these files in one big data set and reorganizes (reshape) the data set in order to have a tidy data in a txt file that can be read with the write.table() command.
 
-
-The data is located in the results folder dataset1 <- read.csv("results/dataset1.csv") dataset2 <- read.csv("results/dataset2.csv") 
+ 
